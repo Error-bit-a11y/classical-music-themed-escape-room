@@ -1,6 +1,6 @@
 import { Link } from 'react-router-dom'
 import './rooms-grid.css'
-import rooms from './data/room-card-info.js'
+import rooms from './data/rooms.js'
 
 function RoomsGrid() {
   return (
