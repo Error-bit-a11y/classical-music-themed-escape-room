@@ -46,10 +46,12 @@ Then open [http://localhost:5173](http://localhost:5173) in your browser.
 
 ## Project Structure
 
-- `music-escape-room/` - Main app source code
-  - `src/` - React components, styles, and assets
-  - `public/` - Static files
-  - `rooms/` - Individual room and puzzle components
+- `src/` - React components, styles, and assets
+  - `components/` - The home page
+  - `rooms/` - Individual rooms and their puzzles
+  - `data/` - Room data
+  - `assets/` - Room images
+- `public/` - Static files
 
 ## License
 
