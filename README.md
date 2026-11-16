@@ -15,7 +15,7 @@ Click here to see the live site: https://hannahro15.github.io/classical-music-th
 
 ### Prerequisites
 
-- [Node.js](https://nodejs.org/) v20.19 or higher (required by Vite 7)
+- [Node.js](https://nodejs.org/) v20.19+ or v22.12+ (required by Vite 7)
 - [npm](https://www.npmjs.com/), which comes with Node.js
 
 ### Installation
@@ -49,6 +49,12 @@ Then open [http://localhost:5173/classical-music-themed-escape-room/](http://loc
   - `data/` - Room data
   - `assets/` - Room images
 - `public/` - Static files
+
+## Contributing
+
+Contributions are welcome, from developers and musicians alike. Some issues, like checking that the puzzles are musically accurate, need music knowledge more than coding.
+
+Read the [contributing guide](CONTRIBUTING.md) to get started. By taking part, you agree to follow the [code of conduct](CODE_OF_CONDUCT.md).
 
 ## License
 
