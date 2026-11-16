@@ -6,6 +6,7 @@ Thanks for wanting to help with the Classical Music Themed Escape Room! 🎻
 
 - New to the project? Look for issues labelled [`good first issue`](https://github.com/hannahro15/classical-music-themed-escape-room/issues?q=is%3Aissue%20is%3Aopen%20label%3A%22good%20first%20issue%22). They're small, self-contained tasks that are a good place to start.
 - Want something bigger? Issues labelled [`help wanted`](https://github.com/hannahro15/classical-music-themed-escape-room/issues?q=is%3Aissue%20is%3Aopen%20label%3A%22help%20wanted%22) are ones I'd especially welcome help with.
+- Check the [project board](https://github.com/users/hannahro15/projects/17) to see what's already in progress.
 - Comment on the issue to say you'd like to work on it, and wait for a reply before you start, so two people don't work on the same thing.
 - Found a bug or have an idea that isn't in the [issues](https://github.com/hannahro15/classical-music-themed-escape-room/issues) yet? You're welcome to [open a new issue](https://github.com/hannahro15/classical-music-themed-escape-room/issues/new). Please check the existing issues first so it isn't a duplicate, and wait for a reply before you write any code, so we can agree on the approach.
 
