@@ -52,7 +52,7 @@ You'll need [Node.js](https://nodejs.org/) v20.19+ or v22.12+.
    ```
 8. Open a pull request and write `Closes #<issue number>` in the description. If your change affects how the game looks, add a screenshot.
 
-The game is already deployed at [hannahro15.github.io/classical-music-themed-escape-room](https://hannahro15.github.io/classical-music-themed-escape-room/), so you don't need to deploy anything. I'll publish your changes to the live site after merging. This is a side project, so it may take a few days for me to review your pull request.
+The game is already deployed at [hannahro15.github.io/classical-music-themed-escape-room](https://hannahro15.github.io/classical-music-themed-escape-room/), so you don't need to deploy anything. I'll publish your changes to the live site after merging.
 
 ## Images, audio and fonts
 
@@ -61,6 +61,10 @@ Please don't add any images, audio clips or fonts to the project without asking 
 Once I've agreed, only add files you have the right to share, and say where they came from in your pull request. Classical pieces are usually public domain, but most recordings of them are not.
 
 Screenshots in your pull request description are fine, because they don't get added to the project.
+
+## Response times
+
+Response times vary depending on my schedule, but I'll do my best to reply to issues and pull requests within a reasonable time. Thanks for your patience!
 
 ## Getting help
 
