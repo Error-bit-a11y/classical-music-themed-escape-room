@@ -19,6 +19,8 @@ p {
 }
 
 #enter-btn {
+  display: inline-block;
+  text-decoration: none;
   font-size: 20px;
   color: white;
   background-color: #8B4513;
