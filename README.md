@@ -54,6 +54,8 @@ Then open [http://localhost:5173/classical-music-themed-escape-room/](http://loc
 
 Contributions are welcome, from developers and musicians alike. Some issues, like checking that the puzzles are musically accurate, need music knowledge more than coding.
 
+**Please wait to be assigned to an issue before you start working on it or open a pull request.** Comment on the issue to ask for it, and I'll assign it to you.
+
 Read the [contributing guide](CONTRIBUTING.md) to get started. By taking part, you agree to follow the [code of conduct](CODE_OF_CONDUCT.md).
 
 ## License
