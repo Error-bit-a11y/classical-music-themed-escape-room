@@ -33,7 +33,6 @@
   display: block;
 }
 
-/* Clickable hotspots - adjust these positions based on your actual image */
 /* Position are the percentages of room images and allow them to scale it */
 .clickable-object {
   position: absolute;
